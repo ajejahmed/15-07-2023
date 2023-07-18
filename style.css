@@ -195,6 +195,7 @@ main{
 }
 footer{
     display: flex;
+    gap: 100px;
     justify-content: space-between;
     background-color: #FFF8F3;
     margin-top: 100px;
